@@ -1,0 +1,13 @@
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 2\LabTask_2\bin\Debug\netcoreapp3.1\LabTask_2.exe
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 2\LabTask_2\bin\Debug\netcoreapp3.1\LabTask_2.deps.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 2\LabTask_2\bin\Debug\netcoreapp3.1\LabTask_2.runtimeconfig.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 2\LabTask_2\bin\Debug\netcoreapp3.1\LabTask_2.runtimeconfig.dev.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 2\LabTask_2\bin\Debug\netcoreapp3.1\LabTask_2.dll
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 2\LabTask_2\bin\Debug\netcoreapp3.1\LabTask_2.pdb
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 2\LabTask_2\obj\Debug\netcoreapp3.1\LabTask_2.csprojAssemblyReference.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 2\LabTask_2\obj\Debug\netcoreapp3.1\LabTask_2.AssemblyInfoInputs.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 2\LabTask_2\obj\Debug\netcoreapp3.1\LabTask_2.AssemblyInfo.cs
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 2\LabTask_2\obj\Debug\netcoreapp3.1\LabTask_2.csproj.CoreCompileInputs.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 2\LabTask_2\obj\Debug\netcoreapp3.1\LabTask_2.dll
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 2\LabTask_2\obj\Debug\netcoreapp3.1\LabTask_2.pdb
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 2\LabTask_2\obj\Debug\netcoreapp3.1\LabTask_2.genruntimeconfig.cache
