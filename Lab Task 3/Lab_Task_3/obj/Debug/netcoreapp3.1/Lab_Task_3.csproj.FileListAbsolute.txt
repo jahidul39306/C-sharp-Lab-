@@ -1,0 +1,13 @@
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 3\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.csprojAssemblyReference.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 3\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.AssemblyInfoInputs.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 3\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.AssemblyInfo.cs
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 3\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.csproj.CoreCompileInputs.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 3\Lab_Task_3\bin\Debug\netcoreapp3.1\Lab_Task_3.exe
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 3\Lab_Task_3\bin\Debug\netcoreapp3.1\Lab_Task_3.deps.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 3\Lab_Task_3\bin\Debug\netcoreapp3.1\Lab_Task_3.runtimeconfig.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 3\Lab_Task_3\bin\Debug\netcoreapp3.1\Lab_Task_3.runtimeconfig.dev.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 3\Lab_Task_3\bin\Debug\netcoreapp3.1\Lab_Task_3.dll
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 3\Lab_Task_3\bin\Debug\netcoreapp3.1\Lab_Task_3.pdb
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 3\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.dll
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 3\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.pdb
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 3\Lab_Task_3\obj\Debug\netcoreapp3.1\Lab_Task_3.genruntimeconfig.cache
