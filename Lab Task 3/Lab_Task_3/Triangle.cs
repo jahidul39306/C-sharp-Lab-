@@ -11,18 +11,18 @@ namespace Lab_Task_3
         int z;
         public int X
         {
-            set { X = value; }
-            get { return X; }
+            set { x = value; }
+            get { return x; }
         }
         public int Y
         {
-            set { Y = value; }
-            get { return Y; }
+            set { y = value; }
+            get { return y; }
         }
         public int Z
         {
-            set { Z = value; }
-            get { return Z; }
+            set { z = value; }
+            get { return z; }
         }
         public void ShowInfo()
         {
@@ -34,7 +34,8 @@ namespace Lab_Task_3
 
         public void TestTriangle()
         {
-            if(X == Z && Y == Z) { Console.WriteLine("The triangle is equilateral (3 equal sides)"); }
+            Console.WriteLine();
+            if (X == Z && Y == Z) { Console.WriteLine("The triangle is equilateral (3 equal sides)"); }
             else if (X == Z || Y == Z || X == Y) { Console.WriteLine("The triangle is isosceles (2 equal sides)"); }
             else { Console.WriteLine("The triangle is scalene(no equal sides)"); }
         }

@@ -26,15 +26,27 @@ namespace Lab_Task_3
         }
         public void Deposit(int amount)
         {
-            Console.WriteLine("Name: {0}", accName);
-            Console.WriteLine("Name: {0}", accName);
-            Console.WriteLine("Name: {0}", accName);
-
-            Console.WriteLine("Balance + {0}", amount);
+            Console.WriteLine();
+            Console.WriteLine("Name: {0}", AccName);
+            Console.WriteLine("Acc ID: {0}", Acid);
+            Console.WriteLine("Balance: {0}", Balance);
+            balance = balance + amount;
+            Console.WriteLine("Deposit: {0}", amount);
+            Console.WriteLine("Current Balance: {0}", Balance);
         }
         public void Withdraw(int amount)
         {
-            Console.WriteLine("Balance - {0}", amount);
+            Console.WriteLine();
+            Console.WriteLine("Name: {0}", AccName);
+            Console.WriteLine("Acc ID: {0}", Acid);
+            Console.WriteLine("Balance: {0}", Balance);
+            balance = balance - amount;
+            if (balance < 0) Console.WriteLine("Balance is low for transaction");
+            else
+            {
+                Console.WriteLine("Withdraw: {0}", amount);
+                Console.WriteLine("Current Balance: {0}", Balance);
+            }
         }
     }
 }

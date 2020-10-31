@@ -33,6 +33,7 @@ namespace Lab_Task_3
         }
         public void ShowInfo()
         {
+            Console.WriteLine();
             Console.WriteLine("Student Name: {0}", Name);
             Console.WriteLine("Student ID: {0}", Id);
             Console.WriteLine("Student Department: {0}", Department);
