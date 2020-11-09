@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZybGSQddShxjAaGvFo9MJ40hdmoZkm+yFlHbMOGR3ESYQHokFUf77kTfnMl4GZ/9bknFnXyva9DxKV5ioU3CsA==",
+  "success": true,
+  "projectFilePath": "E:\\Semesters\\Second Year\\6th Semester(COVID-19)\\C#\\Lab\\Lab Task 6\\Libary Management\\Libary Management.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

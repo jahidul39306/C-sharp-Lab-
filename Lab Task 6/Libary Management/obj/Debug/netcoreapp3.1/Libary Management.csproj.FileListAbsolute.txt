@@ -1,0 +1,13 @@
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 6\Libary Management\bin\Debug\netcoreapp3.1\Libary Management.exe
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 6\Libary Management\bin\Debug\netcoreapp3.1\Libary Management.deps.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 6\Libary Management\bin\Debug\netcoreapp3.1\Libary Management.runtimeconfig.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 6\Libary Management\bin\Debug\netcoreapp3.1\Libary Management.runtimeconfig.dev.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 6\Libary Management\bin\Debug\netcoreapp3.1\Libary Management.dll
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 6\Libary Management\bin\Debug\netcoreapp3.1\Libary Management.pdb
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 6\Libary Management\obj\Debug\netcoreapp3.1\Libary Management.csprojAssemblyReference.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 6\Libary Management\obj\Debug\netcoreapp3.1\Libary Management.AssemblyInfoInputs.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 6\Libary Management\obj\Debug\netcoreapp3.1\Libary Management.AssemblyInfo.cs
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 6\Libary Management\obj\Debug\netcoreapp3.1\Libary Management.csproj.CoreCompileInputs.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 6\Libary Management\obj\Debug\netcoreapp3.1\Libary Management.dll
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 6\Libary Management\obj\Debug\netcoreapp3.1\Libary Management.pdb
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 6\Libary Management\obj\Debug\netcoreapp3.1\Libary Management.genruntimeconfig.cache
