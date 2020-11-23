@@ -38,16 +38,22 @@ namespace Libary_Management
             set { totalBook = value; }
         }
 
+        //private Student[] students;
+
         public Library()
         {
             Book[] listOfBook = new Book[1000];
+            //Student[] students = new Student[100];
         }
 
         public Library(string libName, string libAddress)
         {
+            Book[] listOfBook = new Book[1000];
+            //Student[] students = new Student[100];
             this.libName = libName;
             this.libAddress = libAddress;
             //this.totalBook = totalBook;
+
         }
 
         public void ShowLibInfo()
@@ -100,6 +106,12 @@ namespace Libary_Management
         public void AddNewBookCopy(Book book, int copy)
         {
             book.AddBookCopy(copy);
+        }
+
+        public void ShowStuBookInfo(Student student)
+        {
+            student.ShowInfo();
+            student.BorrowedBooksInfo();
         }
     }
 }

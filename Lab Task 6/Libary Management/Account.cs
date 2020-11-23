@@ -30,15 +30,24 @@ namespace Libary_Management
             set { balance = value; }
         }
 
+        private Student[] students;
+
+        public Student[] Students
+        {
+            get { return students; }
+            set { students = value; }
+        }
 
 
         public Account()
         {
+            Student[] students = new Student[100];
             Console.WriteLine("Empty Constructor");
         }
 
         public Account(string accName, string acid, int balance)
         {
+            Student[] students = new Student[100];
             this.accName = accName;
             this.acid = acid;
             this.balance = balance;

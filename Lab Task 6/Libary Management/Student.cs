@@ -38,11 +38,27 @@ namespace Libary_Management
             set { cgpa = value; }
         }
 
+        private Book[] books;
+
+        public Book[] Books
+         {
+             get { return books; }
+             set { books = value; }
+         }
         public Student()
         {
             Book[] books = new Book[5];
             Console.WriteLine("Empty Constructor");
         }
+
+        private Account stuAac;
+            
+        public Account StuAcc
+        {
+            get { return stuAac; }
+            set { stuAac = value; }
+        }
+
         public Student(string name, string id, string department, float cgpa)
         {
             Book[] books = new Book[5];
@@ -52,15 +68,7 @@ namespace Libary_Management
             this.cgpa = cgpa;
         }
 
-        private Book[] books;
-
-       /* public Book[] Books
-        {
-            get { return books; }
-            set { books = value; }
-        }*/
-
-        public void showInfo()
+        public void ShowInfo()
         {
             Console.WriteLine("Name: " + Name);
             Console.WriteLine("ID: " + Id);
@@ -93,6 +101,15 @@ namespace Libary_Management
                     books[i] = null;
                     Console.WriteLine("Book returned");
                 }
+            }
+        }
+
+        public void BorrowedBooksInfo()
+        {
+            foreach(var e in books)
+            {
+                e.ShowInfo();
+                Console.WriteLine();
             }
         }
 
