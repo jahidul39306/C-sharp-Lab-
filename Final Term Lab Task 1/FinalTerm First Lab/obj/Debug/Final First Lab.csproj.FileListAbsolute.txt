@@ -1,0 +1,14 @@
+E:\Semester 6\C#\Lab Task\Final First Lab\bin\Debug\Final First Lab.exe.config
+E:\Semester 6\C#\Lab Task\Final First Lab\bin\Debug\Final First Lab.exe
+E:\Semester 6\C#\Lab Task\Final First Lab\bin\Debug\Final First Lab.pdb
+E:\Semester 6\C#\Lab Task\Final First Lab\obj\Debug\Final First Lab.csprojAssemblyReference.cache
+E:\Semester 6\C#\Lab Task\Final First Lab\obj\Debug\Final First Lab.csproj.CoreCompileInputs.cache
+E:\Semester 6\C#\Lab Task\Final First Lab\obj\Debug\Final First Lab.exe
+E:\Semester 6\C#\Lab Task\Final First Lab\obj\Debug\Final First Lab.pdb
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 7 (Final Term)\FinalTerm First Lab\bin\Debug\Final First Lab.exe.config
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 7 (Final Term)\FinalTerm First Lab\bin\Debug\Final First Lab.exe
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 7 (Final Term)\FinalTerm First Lab\bin\Debug\Final First Lab.pdb
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 7 (Final Term)\FinalTerm First Lab\obj\Debug\Final First Lab.csprojAssemblyReference.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 7 (Final Term)\FinalTerm First Lab\obj\Debug\Final First Lab.csproj.CoreCompileInputs.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 7 (Final Term)\FinalTerm First Lab\obj\Debug\Final First Lab.exe
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Lab Task 7 (Final Term)\FinalTerm First Lab\obj\Debug\Final First Lab.pdb
