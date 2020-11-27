@@ -1,0 +1,13 @@
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Final Term Lab Task 2\Test Interface 1\Test Interface 1\obj\Debug\netcoreapp3.1\Test Interface 1.csprojAssemblyReference.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Final Term Lab Task 2\Test Interface 1\Test Interface 1\obj\Debug\netcoreapp3.1\Test Interface 1.AssemblyInfoInputs.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Final Term Lab Task 2\Test Interface 1\Test Interface 1\obj\Debug\netcoreapp3.1\Test Interface 1.AssemblyInfo.cs
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Final Term Lab Task 2\Test Interface 1\Test Interface 1\obj\Debug\netcoreapp3.1\Test Interface 1.csproj.CoreCompileInputs.cache
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Final Term Lab Task 2\Test Interface 1\Test Interface 1\bin\Debug\netcoreapp3.1\Test Interface 1.exe
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Final Term Lab Task 2\Test Interface 1\Test Interface 1\bin\Debug\netcoreapp3.1\Test Interface 1.deps.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Final Term Lab Task 2\Test Interface 1\Test Interface 1\bin\Debug\netcoreapp3.1\Test Interface 1.runtimeconfig.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Final Term Lab Task 2\Test Interface 1\Test Interface 1\bin\Debug\netcoreapp3.1\Test Interface 1.runtimeconfig.dev.json
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Final Term Lab Task 2\Test Interface 1\Test Interface 1\bin\Debug\netcoreapp3.1\Test Interface 1.dll
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Final Term Lab Task 2\Test Interface 1\Test Interface 1\bin\Debug\netcoreapp3.1\Test Interface 1.pdb
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Final Term Lab Task 2\Test Interface 1\Test Interface 1\obj\Debug\netcoreapp3.1\Test Interface 1.dll
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Final Term Lab Task 2\Test Interface 1\Test Interface 1\obj\Debug\netcoreapp3.1\Test Interface 1.pdb
+E:\Semesters\Second Year\6th Semester(COVID-19)\C#\Lab\Final Term Lab Task 2\Test Interface 1\Test Interface 1\obj\Debug\netcoreapp3.1\Test Interface 1.genruntimeconfig.cache
