@@ -17,6 +17,8 @@ namespace LabTask_8
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new LogIn_Form());
+            Application.Run(new RegistrationForm());
+            Application.Run(new UserForm());
         }
     }
 }
