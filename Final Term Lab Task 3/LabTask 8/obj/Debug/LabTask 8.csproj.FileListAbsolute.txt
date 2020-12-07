@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\LabTask 8\bin\Debug\LabTask 8.exe.config
+C:\Users\USER\source\repos\LabTask 8\bin\Debug\LabTask 8.exe
+C:\Users\USER\source\repos\LabTask 8\bin\Debug\LabTask 8.pdb
+C:\Users\USER\source\repos\LabTask 8\obj\Debug\LabTask 8.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\LabTask 8\obj\Debug\LabTask_8.Properties.Resources.resources
+C:\Users\USER\source\repos\LabTask 8\obj\Debug\LabTask 8.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\LabTask 8\obj\Debug\LabTask 8.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LabTask 8\obj\Debug\LabTask 8.exe
+C:\Users\USER\source\repos\LabTask 8\obj\Debug\LabTask 8.pdb
+C:\Users\USER\source\repos\LabTask 8\obj\Debug\LabTask_8.LogIn_Form.resources
+C:\Users\USER\source\repos\LabTask 8\obj\Debug\LabTask_8.RegistrationForm.resources
