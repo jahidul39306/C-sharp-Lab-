@@ -37,20 +37,23 @@ namespace LabTask_8
             // 
             this.buttonAddUser.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.buttonAddUser.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonAddUser.Location = new System.Drawing.Point(32, 106);
+            this.buttonAddUser.Location = new System.Drawing.Point(43, 130);
+            this.buttonAddUser.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonAddUser.Name = "buttonAddUser";
-            this.buttonAddUser.Size = new System.Drawing.Size(110, 48);
+            this.buttonAddUser.Size = new System.Drawing.Size(147, 59);
             this.buttonAddUser.TabIndex = 0;
             this.buttonAddUser.Text = "Add User";
             this.buttonAddUser.UseVisualStyleBackColor = false;
+            this.buttonAddUser.Click += new System.EventHandler(this.buttonAddUser_Click);
             // 
             // buttonEditUser
             // 
             this.buttonEditUser.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.buttonEditUser.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonEditUser.Location = new System.Drawing.Point(202, 106);
+            this.buttonEditUser.Location = new System.Drawing.Point(269, 130);
+            this.buttonEditUser.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.buttonEditUser.Name = "buttonEditUser";
-            this.buttonEditUser.Size = new System.Drawing.Size(110, 48);
+            this.buttonEditUser.Size = new System.Drawing.Size(147, 59);
             this.buttonEditUser.TabIndex = 1;
             this.buttonEditUser.Text = "Edit User";
             this.buttonEditUser.UseVisualStyleBackColor = false;
@@ -58,11 +61,12 @@ namespace LabTask_8
             // 
             // UserForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(348, 338);
+            this.ClientSize = new System.Drawing.Size(464, 416);
             this.Controls.Add(this.buttonEditUser);
             this.Controls.Add(this.buttonAddUser);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "UserForm";
             this.Text = "UserForm";
             this.Load += new System.EventHandler(this.UserForm_Load);
